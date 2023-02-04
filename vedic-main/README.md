@@ -57,7 +57,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2022 [pratik jatale](https://github.com/pratikashokjatale).<br />
-This project is [MIT](https://github.com/vedic-lang/vedic/blob/main/LICENSE) licensed.
+
 
 ***
 
