@@ -33,7 +33,7 @@ Vedic Script is very easy to set up, just follow the [Install Instructions](http
 
 <p><a href="https://discord.gg/sWCHauhNQ2"><img width="60" src="https://raw.githubusercontent.com/vedic-lang/vedic/main/discord.png"/></a></p>
 
-## 👤 Author
+<!-- ## 👤 Author
 
 <p><a href="https://github.com/vedic"><img width="60" src="https://avatars2.githubusercontent.com/u/26687933?s=200&v=4"/></a></p>
 
@@ -43,7 +43,7 @@ Vedic Script is very easy to set up, just follow the [Install Instructions](http
 - Github: [@ptprashanttripathi](https://github.com/ptprashanttripathi)
 - LinkedIn: [ptprashanttripathi](https://www.linkedin.com/in/ptprashanttripathi/) 
 - Dev.to : [ptprashanttripathi](https://dev.to/ptprashanttripathi)
-
+ -->
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [Contributing Guide](https://github.com/vedic-lang/vedic/blob/main/CONTRIBUTING.md). 
@@ -56,7 +56,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [Pt. Prashant Tripathi](https://github.com/ptprashanttripathi).<br />
+Copyright © 2022 [pratik jatale](https://github.com/pratikashokjatale).<br />
 This project is [MIT](https://github.com/vedic-lang/vedic/blob/main/LICENSE) licensed.
 
 ***
