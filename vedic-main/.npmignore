@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+release/
+tests/
+coverage/
+build/
+sample/
+vedic/
